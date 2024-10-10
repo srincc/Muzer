@@ -7,8 +7,6 @@
   - [With Docker](#with-docker)
   - [Without Docker](#without-docker)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Contributors](#contributors)
 
 ## Installation
 
@@ -106,28 +104,4 @@
 2. Access the redis stack at http://localhost:8001/redis-stack/browser
 3. Access the prisma studio at http://localhost:5555
 
-## Contributing
 
-We welcome contributions from the community! To contribute to Muzer, follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch (`git checkout -b feature/fooBar`).
-
-3. Make your changes and commit them (`git commit -am 'Add some fooBar'`).
-
-4. Push to the branch (`git push origin -u feature/fooBar`).
-
-5. Create a new Pull Request.
-
-For major changes, please open an issue first to discuss what you would like to change.
-
-Read our [contribution guidelines](./CONTRIBUTING.md) for more details.
-
-## Contributors
-
-<a href="https://github.com/code100x/muzer/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=code100x/muzer" />
-</a>
-
-If you continue to face issues, please open a GitHub issue with details about the problem you're experiencing.
